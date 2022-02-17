@@ -1,0 +1,1 @@
+# sintel-prototype-types
